@@ -24,8 +24,6 @@ A machine learning project that predicts salary from years of experience. It cov
 
 The [Salary Dataset](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression) from Kaggle has 30 employees, each with years of experience and annual salary. The question is simple: *how well can experience alone predict pay?*
 
-It started as a machine learning exercise during my data science training (2024), where I trained a model and saved it as a `.joblib` file. I later rebuilt the project around that model. I added the training code, proper validation, residual checks and a prediction script, and documented every step. The retrained model gives exactly the same coefficients as my original one.
-
 ## Walkthrough
 
 The full analysis is in [`notebooks/salary_prediction.ipynb`](notebooks/salary_prediction.ipynb).
@@ -120,6 +118,6 @@ jupyter notebook notebooks/salary_prediction.ipynb
 
 ## Author
 
-**Faith Njah**: software developer with a background in Medical Physiology.
+**Faith Njah**
 
 More projects: [Medical Students Data Preprocessing](https://github.com/FaithNjah/medical-students-data-preprocessing) · [Titanic Data Cleaning](https://github.com/FaithNjah/titanic-data-cleaning)
